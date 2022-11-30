@@ -1,4 +1,4 @@
-# Tic-TacToe
+# Tic-Tac-Toe
 Following React turtorial to create a tictactoe game with time travel
 
 ## Available Scripts
